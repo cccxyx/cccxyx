@@ -43,14 +43,6 @@ Hi! I'm **cccxyx**, a passionate developer who loves exploring new tech and buil
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cccxyx&show_icons=true&theme=vue-dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cccxyx&theme=vue-dark&hide_border=true" height="170"/>
-</p>
-
----
 
 ### 🧑‍💻 Most Used Languages
 
