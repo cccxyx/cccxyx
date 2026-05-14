@@ -34,7 +34,7 @@ Hi! I'm **cccxyx**, a passionate developer who loves exploring new tech and buil
 ---
 
 <!-- 数据统计卡片 -->
-### 📊 GitHub Stats
+### 📊 GitHub Status
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cccxyx&show_icons=true&theme=vue-dark&hide_border=true" height="170"/>
